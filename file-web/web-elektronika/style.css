@@ -285,6 +285,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  padding-top: 10px;
 }
 
 .arrow {
@@ -297,7 +298,7 @@ section {
   padding: 1.5rem;
   flex: 1;
   background: white;
-  border-radius: 2rem;
+  border-radius: 1rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
@@ -356,6 +357,7 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
+  padding-top: 100px;
   position: relative;
 }
 
@@ -365,9 +367,10 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 3rem;
-  width: 30%;
-  height: 30%;
+  border-radius: 1rem;
+  width: 70%;
+  height: 70%;
+  padding-top: 10px;
 }
 
 .project-title {
@@ -387,6 +390,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  padding: 90px;
 }
 
 .contact-info-upper-container {
