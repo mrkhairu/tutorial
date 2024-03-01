@@ -294,6 +294,10 @@ section {
   right: -5rem;
   bottom: 2.5rem;
 }
+ .article-container img {
+  height: 28vh;
+  width: 17vw;
+}
 
 .details-container {
   padding: 1.5rem;
@@ -314,8 +318,12 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  padding-left: 3rem;
 }
 
+.section__pic-container img.aboutpic {
+  padding-left: 2rem;
+}
 /* EXPERIENCE SECTION */
 
 #experience {
